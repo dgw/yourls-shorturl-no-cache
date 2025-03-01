@@ -4,8 +4,9 @@ Requires [YOURLS](https://yourls.org) 1.9+
 
 ## Installation
 
-1. Drop the `shorturl-no-cache` folder into your `/user/plugins` directory.
-2. Go to the Plugins administration page (eg. `https://sho.rt/admin/plugins.php`) and activate the plugin.
+1. Clone or extract this repo into your `/user/plugins` directory, e.g.:\
+   `git clone https://github.com/dgw/yourls-shorturl-no-cache.git shorturl-no-cache`
+2. Go to the Plugins administration page (e.g. `https://sho.rt/admin/plugins.php`) and activate the plugin.
 
 ## License
 
